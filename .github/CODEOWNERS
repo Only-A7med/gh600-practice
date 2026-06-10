@@ -1,0 +1,5 @@
+# Default owner for everything
+*    @Only-A7med
+ 
+# Specific owner for any .py file
+*.py @Only-A7med
